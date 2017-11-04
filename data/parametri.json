@@ -1,0 +1,33 @@
+{
+  "Parametri": [
+    "<i;TESTIRANJE.txt>",
+    "<Panel 1;Label;85,210,575,25;                   Welcome to Mr. Zeka installer. The one place where YOU can install the Zeka file.;Dobrodošli u gospodin Zeka instaler. Ovo je jedino mesto na kojem možeš da instaliraš Zekin moćni fajl!;Добродошли у господин Зека инсталер. Ово је место на којем можеш да инсталираш Зекин моћни фајл!>",
+    "<Panel 1;Label;300,240,450,25;Don't belive me?;Ne veruješ mi?;Не верујеш ми?>",
+    "<Panel 1;Label;185,270,450,25;Try me and you'll see that the only boundry is your imagination!;     Upotrebi me i shvatićeš da je jedina granica tvoja mašta!;     Употреби ме и схватићеш да је једина граница твоја машта!>",
+    "<Panel 1;Image;270,20,150,180;data\\bunny.png>",
+    "<Panel 1;Button Next;180,320,150,40;Next;Dalje;Даље>",
+    "<Panel 1;Button Close;20,320,150,40;Close;Izađi;Изађи>",
+    "<Panel 2;Button Next;180,320,150,40;Next;Dalje;Даље>",
+    "<Panel 2;Button Close;20,320,150,40;Close;Izađi;Изађи>",
+    "<Panel 1;Language Switcher;20,20,120,40>",
+    "<Panel 2;Terms and Conditions;120,170,380,50;I will always love awesome 202.3 team! <3;Ovom instalacijom priznajem da volim tim 202.3!;Овом инсталацијом признајем да волим тим 202.3!>",
+    "<Panel 3;Button Next;180,320,150,40;Next;Dalje;Даље>",
+    "<Panel 3;Button Close;20,320,150,40;Close;Izađi;Изађи>",
+    "<Panel 3;Software Folder Destination;120,150,380,50;Choose destination folder;Izaberi folder za instalaciju;Изабери фолдер за инсталацију>",
+	"<Panel 4;Button Next;410,300,140,40;Next;Dalje;Даље>",
+	"<Panel 4;Installation;110,165,450,35>",
+	"<Panel 5;Image;275,50,350,275;data\\thanks.png>",
+	"<Panel 5;Run software after instalation;50,95,250,35;Open powerful software;Otvori moćni softver;Отвори моћни софтвер>",
+	"<Panel 5;Open Read-me File;50,145,250,35;data\\openReadMeFile.jpg;Оpen powerful file;Otvori moćan fajl;Отвори моћан фајл>",
+	"<Panel 5;Shourtcut option;50,195,250,35;Shortcut to powerful software;Prečica do moćnog softvera;Пречица до моћног софтвера>",
+	"<Panel 5;Button Close;50,275,150,45;Finish;Završi;Заврши>"
+  ],
+  "Autor": "Tim 202.3",
+  "Naziv": "Genericki Instaler",
+  "Naziv softvera": "TESTIRANJE.txt",
+  "Jezici": [
+    "English",
+    "Srpski",
+    "Српски"
+  ]
+}

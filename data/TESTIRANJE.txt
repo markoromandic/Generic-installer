@@ -1,0 +1,16 @@
+﻿NAMEŠTENO JE DA OTVARA .jar, .exe i .txt fajlove. 
+".txt" fajlovi su stavljeni samo zbog lakšeg testiranja.
+Pošto nismo imali .jar ili .exe fajl za primer da vam ostavimo.
+Ostavili smo vam .txt .
+Ako želite da testirate sa .exe ili .jar fajlom, u parametri.json fajlu 
+"Naziv softvera" stavka, umesto TESTIRANJE.txt stavite ime vašeg fajla sa 
+odgovarajućom ekstenzijom.
+
+ARGUMENT 0 - POKREĆE USER MOD
+ARGUMENT 1 - POKREĆE DEVELOPER MOD
+
+Precice nad listom u DEVELOPER MODU
+
+CTRL + U - apdejtuje taj red, sa svim novim zadatim parametrima
+CTRL + D i Delete - brise red u listi
+ALT + D - brise celu listu
